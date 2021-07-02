@@ -1,5 +1,4 @@
-# portfolio
-Welcome!
+# Welcome!
 
 My name is Shaoqin Fu
 
