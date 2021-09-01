@@ -12,4 +12,4 @@ Adequate in database management and data analytics.
 Looking forward for intern opportunities to gain more hands on 
 experience with my knowledge.
 
-Click [here](fushaoqin.com) to visit my portfolio site. 
+Click [here](https://fushaoqin.com/) to visit my portfolio site. 
